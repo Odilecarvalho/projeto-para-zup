@@ -5,7 +5,7 @@ const especie = document.getElementById("especie");
 const condicao = document.getElementById("status");
 
 gerarValorAleatorio = () => {
-    return Math.floor(Math.random() * 2);
+    return Math.floor(Math.random() * 3);
 }
 
 pegarPersonagem = () => { 
