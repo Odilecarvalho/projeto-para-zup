@@ -54,4 +54,69 @@ body {
     #detalhes-container > li p{
         color:red;
     }
-        
+
+h1 , h2 {
+  background :  linear-gradient (à direita ,  # 45B649 ,  # DCE35B );
+  preenchimento :  10px ; _
+  text-align : centro;
+  cor : preto
+
+}
+
+. personagens {
+  fundo :  # DCE35B ;
+  exibição : bloco em linha;
+  preenchimento :  10px ; _
+}
+
+. personagens : pairar {
+  fundo : amarelo- esverdeado;
+  cursor : ponteiro;
+}
+
+. personagens  h3 {
+  fundo : preto;
+  preenchimento :  5px ; _
+  raio da borda :  10 px ;
+}
+
+. personagens  >  p {
+  fundo : preto;
+}
+
+. personagens  h3  +  p {
+  fundo : preto;
+}
+
+
+h3 {
+  fundo : preto;
+  preenchimento :  5px ; _
+}
+
+rodapé {  
+  cor : cinza;
+  text-align : centro;
+  estilo da fonte : itálico;
+}
+
+a : pairar {
+  cor : azul royal;
+  decoração de texto : nenhuma;
+}
+
+um {
+  decoração de texto : nenhuma;
+  estilo da fonte : itálico;
+}
+
+# foto-texto {
+  margem esquerda :  400 px ;
+}
+
+# foto-cabecalho {
+  altura :  100px ; _
+  largura :  300px ; _
+}
+
+
